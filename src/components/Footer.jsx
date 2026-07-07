@@ -145,7 +145,10 @@ const Footer = () => {
                 <span className="relative z-10">Privacy Policy</span>
                 <div className="absolute inset-0 bg-gradient-to-r from-primary-600/20 to-purple-600/20 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300 -inset-2"></div>
               </a>
-              <a className="group relative cursor-pointer hover:text-white transition-colors duration-300">
+              <a
+                className="group relative cursor-pointer hover:text-white transition-colors duration-300"
+                title="Terms of Service"
+              >
                 <span className="relative z-10">Terms of Service</span>
                 <div className="absolute inset-0 bg-gradient-to-r from-primary-600/20 to-purple-600/20 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300 -inset-2"></div>
               </a>
