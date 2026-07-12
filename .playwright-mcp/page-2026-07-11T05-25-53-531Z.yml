@@ -1,0 +1,75 @@
+- generic [ref=f6e3]:
+  - navigation [ref=f6e4]:
+    - generic [ref=f6e6]:
+      - generic [ref=f6e7]:
+        - link [ref=f6e9] [cursor=pointer]:
+          - /url: /
+          - heading "JobPortal" [level=1] [ref=f6e12]
+        - generic [ref=f6e14]:
+          - link "Find Jobs" [ref=f6e15] [cursor=pointer]:
+            - /url: /jobs
+          - link "Companies" [ref=f6e17] [cursor=pointer]:
+            - /url: /companies
+      - generic [ref=f6e20]:
+        - button "Toggle theme" [ref=f6e21]
+        - link "Log In" [ref=f6e26] [cursor=pointer]:
+          - /url: /login
+        - link "Sign Up" [ref=f6e28] [cursor=pointer]:
+          - /url: /register
+  - main [ref=f6e30]:
+    - generic [ref=f6e32]:
+      - heading "Job Not Found" [level=2] [ref=f6e33]
+      - paragraph [ref=f6e34]: The job you're looking for doesn't exist.
+      - link "Back to Jobs" [ref=f6e35] [cursor=pointer]:
+        - /url: /jobs
+  - contentinfo [ref=f6e38]:
+    - generic [ref=f6e42]:
+      - generic [ref=f6e43]:
+        - generic [ref=f6e44]:
+          - heading "JobPortal" [level=3] [ref=f6e47]
+          - paragraph [ref=f6e48]: Your trusted partner in finding the perfect career opportunity. Connect with top employers and build your professional future with confidence.
+          - generic [ref=f6e49]:
+            - link [ref=f6e50] [cursor=pointer]:
+              - /url: https://twitter.com/jobportal
+            - link [ref=f6e53] [cursor=pointer]:
+              - /url: https://linkedin.com/company/jobportal
+            - link [ref=f6e56] [cursor=pointer]:
+              - /url: https://github.com/jobportal
+            - link [ref=f6e59] [cursor=pointer]:
+              - /url: https://instagram.com/jobportal
+        - generic [ref=f6e62]:
+          - heading "For Job Seekers" [level=4] [ref=f6e63]
+          - list [ref=f6e64]:
+            - listitem [ref=f6e65]:
+              - link "Browse Jobs" [ref=f6e66] [cursor=pointer]:
+                - /url: /jobs
+            - listitem [ref=f6e68]:
+              - link "Companies" [ref=f6e69] [cursor=pointer]:
+                - /url: /companies
+        - generic [ref=f6e71]:
+          - heading "For Employers" [level=4] [ref=f6e72]
+          - list [ref=f6e73]:
+            - listitem [ref=f6e74]:
+              - link "Post a Job" [ref=f6e75] [cursor=pointer]:
+                - /url: /login
+            - listitem [ref=f6e77]:
+              - link "Browse Candidates" [ref=f6e78] [cursor=pointer]:
+                - /url: /login
+      - generic [ref=f6e82]:
+        - generic [ref=f6e83]:
+          - generic [ref=f6e84] [cursor=pointer]:
+            - text: Privacy Policy
+            - generic: Coming soon
+          - generic "Terms of Service" [ref=f6e86] [cursor=pointer]:
+            - text: Terms of Service
+            - generic: Coming soon
+          - generic [ref=f6e88] [cursor=pointer]:
+            - text: Cookie Policy
+            - generic: Coming soon
+          - link "Contact Us Get in touch with us" [ref=f6e90] [cursor=pointer]:
+            - /url: /contact
+            - text: Contact Us
+            - generic: Get in touch with us
+        - generic [ref=f6e92]:
+          - generic [ref=f6e93]: © 2026 JobPortal. All rights reserved.
+          - generic [ref=f6e94]: Made with ❤️ for job seekers worldwide
