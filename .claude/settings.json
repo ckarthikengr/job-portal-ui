@@ -9,5 +9,11 @@
   "env":{
     "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
   },
-  "hooks": {}
+  "hooks": {},  
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "chrome-devtools",
+    "playwright",
+    "context7"
+  ]
 }
